@@ -83,8 +83,8 @@
 * Docker Hub运行
 
   ```shell
-  docker pull pengzhile/pandora
-  docker run -it --rm pengzhile/pandora
+  docker pull zhile-io/pandora
+  docker run -it --rm zhile-io/pandora
   ```
 
 * Docker编译运行
