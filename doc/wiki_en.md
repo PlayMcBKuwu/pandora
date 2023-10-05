@@ -81,8 +81,8 @@ Pandora, talking with ChatGPT in command lines, and with more surprises.
 * Docker Hub
 
   ```shell
-  docker pull pengzhile/pandora
-  docker run -it --rm pengzhile/pandora
+  docker pull zhile-io/pandora
+  docker run -it --rm zhile-io/pandora
   ```
 
 * Docker build
